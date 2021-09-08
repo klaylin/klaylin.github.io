@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: Klay的博客
+email: 1056353610@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  Klay的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://klayteym.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Klay Lin
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
